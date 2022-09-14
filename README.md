@@ -8,3 +8,4 @@
 
 - Implement a [branching strategy](https://www.flagship.io/git-branching-strategies/).
 - Document your process and all references.
+- Add automated testing.
