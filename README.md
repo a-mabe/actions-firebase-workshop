@@ -9,3 +9,7 @@
 - Implement a [branching strategy](https://www.flagship.io/git-branching-strategies/).
 - Document your process and all references.
 - Add automated testing.
+
+# References
+- [Get started with Firebase Hosting](https://firebase.google.com/docs/hosting/quickstart)
+- [Using Firebase to deploy your React App](https://medium.com/@MinimalGhost/using-firebase-to-deploy-your-react-app-44ff90b2b0b6)
